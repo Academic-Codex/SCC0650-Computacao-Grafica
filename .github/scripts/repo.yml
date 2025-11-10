@@ -1,5 +1,5 @@
-TITLE_1: EAP5054
-TITLE_2: Formação do Cientista Empreendedor II
+TITLE_1: SCC0650
+TITLE_2: Computação Gráfica
 SUBTITLE_1: Disciplina de graduação
 SUBTITLE_2: Material de aula, notebooks e referências.
 
@@ -12,5 +12,5 @@ REFERENCIAS: |
     <li>Artigo B …</li>
   </ul>
 
-GITHUB_LINK: https://github.com/Academic-Codex/EAP5054-Formacao-Cientista-Empreendedor-II
-HERO_FILE: cientista-empreendedor-ii.png
+GITHUB_LINK: https://github.com/Academic-Codex/SCC0650-Computacao-Grafica
+HERO_FILE: computacao-grafica.png
